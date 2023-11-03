@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Database</string>
+    <string name="Delete">Удалить</string>
+    <string name="Add">Добавить</string>
+    <string name="ViewAll">Показать всё</string>
+    <string name="Name">Имя</string>
+    <string name="Surname">Фамилия</string>
+    <string name="Age">Год рождения</string>
+    <string name="UpdateName">Обновлённое имя</string>
+    <string name="update">Обновить</string>
+    <string name="deleteAll">Удалить всех</string>
+    <string name="search">Поиск</string>
+</resources>
